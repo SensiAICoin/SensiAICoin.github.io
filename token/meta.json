@@ -1,12 +1,12 @@
 {
   "name": "Sensi",
   "symbol": "Sensi",
-  "description": "Sensi revolutionizes DeFi with SmartYield: higher returns, reduced risk, and enhanced security, all with one click.",
+  "description": "Sensi - a symbol uniting all neurodivergent people. The name embodies the idea of unity and acceptance of differences. Sensi represents a new beginning, where every individual is valued, and diversity becomes our shared strength.",
   "image": "https://SensiAICoin.github.io/token/icon.png",
   "extensions": {
-    "twitter": "",
-    "telegram": "",
-    "website": ""
+    "twitter": "https://x.com/Neuro_0xy",
+    "telegram": "https://t.me/Neurodivergent_Ai_chat",
+    "website": "https://neurodivergentcoin.com"
   },
   "tags": []
 }
